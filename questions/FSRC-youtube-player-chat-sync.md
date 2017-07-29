@@ -4,6 +4,10 @@
 
 Senior level JS engineer
 
+### The problem
+
+You need to sync a video player with chat messages.
+
 ### API
 
 For this question, you have a given API which you need to mock completely, create fake data and make sure you test thoroughly.

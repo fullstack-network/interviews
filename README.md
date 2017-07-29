@@ -21,8 +21,8 @@ Suggestions/Corrections are always welcome, feel free to open issues/PRs with an
 
 #### Mid level
 
-[Convert a phone number to all possible numpad strings(questions/ZMHT-phone-number-letters.md)
+* [Convert a phone number to all possible numpad strings](questions/ZMHT-phone-number-letters.md)
 
 #### Senior engineer level
 
-[Sync a youtube player with chat messages](questions/FSRC-youtube-player-chat-sync.md)
+* [Sync a youtube player with chat messages](questions/FSRC-youtube-player-chat-sync.md)
