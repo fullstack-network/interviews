@@ -22,6 +22,7 @@ Suggestions/Corrections are always welcome, feel free to open issues/PRs with an
 #### Mid level
 
 * [Convert a phone number to all possible numpad strings](questions/ZMHT-phone-number-letters.md)
+* [Happy Number](questions/ARZP-happy-number.md)
 
 #### Senior engineer level
 
